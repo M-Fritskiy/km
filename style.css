@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: blueviolet;
+    padding: 10px;
+    text-align: center;
+}
+header a{
+color: cadetblue;
+text-decoration: double;
+background-color: blue;
+padding: 10px;
+border-radius: 8px;
+}
+nav{
+    background-color: coral;
+    padding: 15px;
+}
+
+
+h2    {
+color: chartreuse;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+border-color: crimso;
+border: 2px dotted;}
+
+main p{
+    background-color: blue;
+    padding: 10px;
+    color: darkkhaki;
+}
